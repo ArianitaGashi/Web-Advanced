@@ -1,0 +1,114 @@
+body{
+    font-family: titilium web, sans-serif;
+}
+.section1{
+    background-color: #17c2a4;
+    height: 700px;
+    
+}
+.section1 h1{
+    color: white;
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.section1 h3{
+    color: white;
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+   text-align: center;
+}
+   
+.content{
+    padding: 200px;
+    padding-top: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.content img{
+    height: 70px;
+    width: 70px;
+}
+.content div{
+    color: white;
+}
+
+.section2{
+    color: #afafaf;
+    height: 700px;
+    
+}
+.section2 h1{
+    color: darkgray;
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.section2 h3{
+    color: darkgray;
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+   text-align: center;
+}
+   
+.content2{
+    padding: 200px;
+    padding-top: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.content2 img{
+    height: 70px;
+    width: 70px;
+}
+.content2 div{
+    color: darkgray;
+}
+.section3{
+    color: white;
+    height: 700px;
+    
+}
+.section3 h1{
+    color: darkgray;
+    padding-top: 70px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.section3 h3{
+    color: darkgray;
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+   text-align: center;
+}
+   
+.content3{
+    padding: 200px;
+    padding-top: 60px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+.content3 img{
+    height: 70px;
+    width: 70px;
+}
+.content3 div{
+    color: darkgray;
+}
+
+
