@@ -1,0 +1,42 @@
+body {
+    background-color: #17c2a4;
+}
+
+h1 {
+    color: white;
+}
+
+.text {
+    color: white;
+    justify-items: center;
+    font-size: 25px;
+}
+   
+.continer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.continer img{
+    width: 200px;
+    height: 200px;
+}
+
+.rocket p {
+    color: white;
+    font-size: 15px;
+
+}
+
+.rocket {
+    justify-items: center;
+}
+
+.section2 h1{
+    text-align: center;
+    
+    
+}
